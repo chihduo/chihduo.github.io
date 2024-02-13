@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage of Chih-Duo Hong"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Chih-Duo Hong"
+description              : &description ""
 url                      : https://chihduo.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chihduo.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ"
-  email            :
+  email            : chihduo.hong@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
