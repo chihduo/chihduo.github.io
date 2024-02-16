@@ -30,7 +30,11 @@ Please see [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mE
 
 Teaching
 -----
-- 2024 Winter: Fairness and Explainability of AI
-- 2023 Spring: Process and Data Mining
+- 2024 Spring: Fairness and Explainability of AI
+- 2023 Fall: Process and Data Mining
 - 2023 Summer: Automatic Safety Proof Synthesis (@FLOLAC)
-- 2023 Winter: Fairness and Explainability of AI
+- 2023 Spring: Fairness and Explainability of AI
+
+Past course links
+-----
+[Fairness and Explainability of AI (Spring 2023)](https://sites.google.com/view/aisd2023)
