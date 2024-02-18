@@ -19,7 +19,7 @@ Services
 - ATVA 2024 PC
 - APLAS 2024 SRC & Poster PC
 - CAV 2024 reviewer
-- CAV 2019 AEC
+- CAV 2020 AEC
 - LICS 2019 reviewer
 
 Recent publications
