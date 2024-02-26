@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Chih-Duo Hong"
+title                    : "Homepage of Chih-Duo Hong (洪智鐸)"
 title_separator          : "-"
 name                     : "Chih-Duo Hong"
 description              : ""
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : &name "Chih-Duo Hong"
+  name             : &name "Chih-Duo Hong (洪智鐸)"
   avatar           : "https://i1.rgstatic.net/ii/profile.image/11431281204420546-1699785713744_Q512/Chih-Duo-Hong.jpg"
   bio              : "Assistant Professor at NCCU"
   location         : "Taipei"
