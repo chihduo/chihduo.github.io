@@ -10,14 +10,16 @@ redirect_from:
 Research interest
 -----
 - Infinite-state model checking
-- Automated reasoning & constraint solving
 - Computational learning
+- Automated reasoning & constraint solving
 - Formal verification of neural networks
 
 Services
 -----
 - ATVA 2024 PC
+- TCSE 2024 PC
 - APLAS 2024 SRC & Poster PC
+- ICALP 2024 reviewer
 - CAV 2024 reviewer
 - CAV 2020 AEC
 - LICS 2019 reviewer
