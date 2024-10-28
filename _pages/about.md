@@ -18,9 +18,9 @@ Services
 -----
 - ATVA 2024 PC
 - TCSE 2024 PC
-- APLAS 2024 SRC & Poster PC
 - ICALP 2024 reviewer
 - CAV 2024 reviewer
+- APLAS 2023 SRC & Poster PC
 - CAV 2020 AEC
 - LICS 2019 reviewer
 
