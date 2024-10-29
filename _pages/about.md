@@ -16,12 +16,12 @@ Research interest
 
 Services
 -----
-- ATVA 2024 PC
-- TCSE 2024 PC
+- ATVA 2024 Program committee
+- TCSE 2024 Program committee
 - ICALP 2024 reviewer
 - CAV 2024 reviewer
-- APLAS 2023 SRC & Poster PC
-- CAV 2020 AEC
+- APLAS 2023 SRC & Poster program committee
+- CAV 2020 Artifact evaluation committee
 - LICS 2019 reviewer
 
 Recent publications
