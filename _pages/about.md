@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Research interest
+Research Interest
 -----
 - Infinite-state model checking
 - Computational learning
@@ -16,12 +16,12 @@ Research interest
 
 Services
 -----
-- ATVA 2024 Program committee
-- TCSE 2024 Program committee
-- ICALP 2024 reviewer
-- CAV 2024 reviewer
-- APLAS 2023 SRC & Poster program committee
-- CAV 2020 Artifact evaluation committee
+- [ATVA 2024](https://atva-conference.org/2024/organization/) Program Committee
+- [TCSE 2024](https://tcse2024.seat.org.tw/) Program Committee
+- [ICALP 2024](https://compose.ioc.ee/icalp2024/#icalp) reviewer
+- [CAV 2024](https://i-cav.org/2024/) reviewer
+- [APLAS 2023](https://conf.researchr.org/home/aplas-2023) SRC & Poster Program Committee
+- CAV 2020 Artifact Evaluation Committee
 - LICS 2019 reviewer
 
 Recent publications
@@ -32,8 +32,9 @@ Please see [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mE
 
 Teaching
 -----
-- 2024 Spring: Fairness and Explainability in Machine Learning
-- 2023 Fall: Process and Data Mining
+- 2025 Spring: Software Analysis and Testing
+- 2024 Fall: [Fairness and Explainability in Machine Learning](https://newdoc.nccu.edu.tw/teaschm/1131/schmPrv.jsp-yy=113&smt=1&num=356814&gop=00&s=1.html)
+- 2023 Fall: [Process and Data Mining](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=356359&gop=00&s=1.html)
 - 2023 Summer: Automatic Safety Proof Synthesis (@FLOLAC)
 - 2023 Spring: Fairness and Explainability in Machine Learning
 
