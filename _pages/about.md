@@ -26,7 +26,12 @@ Services
 
 Recent publications
 -----
-- Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems", Proceedings of the ACM on Programming Languages (PACMPL), Vol.8, No.22, pp.638-666, 2024.
+
+- Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models", 2025. [(manuscript)](https://chihduo.github.io/files/Concolic_Testing_of_DNN_Fairness.pdf)
+
+- Chi-Rui Chiang, Chih-Duo Hong and Fang Yu, "Dynamic Concolication for Automatic Unit Testing of Python Libraries", 2025. [(manuscript)](https://chihduo.github.io/files/Concolic_Testing_with_Profiler.pdf)
+
+- Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems", Proceedings of the ACM on Programming Languages (PACMPL), Vol.8, No.22, pp.638-666, 2024. [(arxiv)](https://arxiv.org/abs/2401.02618)
 
 Please see [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ) for a full list.
 
