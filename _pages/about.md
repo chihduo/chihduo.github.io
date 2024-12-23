@@ -11,8 +11,7 @@ Research Interest
 -----
 - Infinite-state model checking
 - Computational learning
-- Automated reasoning & constraint solving
-- Formal verification of neural networks
+- Verification and testing of neural networks
 
 Services
 -----
@@ -32,6 +31,19 @@ Recent publications
 - Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (PACMPL), Vol.8, No.22, pp.638-666, 2024. [(arxiv)](https://arxiv.org/abs/2401.02618)
 
 Please see [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ) for a full list.
+
+Projects
+----
+
+### Adversarial example generation for neural networks
+<img src="https://chihduo.github.io/files/pyct_adv_bg.png" width="500px" />
+
+### Fairness Verification of neural networks
+<img src="https://chihduo.github.io/files/pyfair.png" width="500px" />
+
+### Regular abstraction
+<img src="https://chihduo.github.io/files/reg_abs.png" width="500px" />
+
 
 Teaching
 -----
