@@ -38,7 +38,7 @@ Projects
 ### Adversarial example generation for neural networks
 <img src="https://chihduo.github.io/files/pyct_adv_bg.png" width="500px" />
 
-### Fairness Verification of neural networks
+### Fairness verification of neural networks
 <img src="https://chihduo.github.io/files/pyfair.png" width="500px" />
 
 ### Regular abstraction
