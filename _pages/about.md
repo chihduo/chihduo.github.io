@@ -30,20 +30,27 @@ Recent publications
 - Chi-Rui Chiang, Chih-Duo Hong, and Fang Yu, "Dynamic Concolication for Automatic Unit Testing of Python Libraries," 2025. [(manuscript)](https://chihduo.github.io/files/Concolic_Testing_with_Profiler.pdf)
 - Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (PACMPL), Vol.8, No.22, pp.638-666, 2024. [(arxiv)](https://arxiv.org/abs/2401.02618)
 
-Please see [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ) for a full list.
+For a full list, please see my [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ).
 
 Projects
 ----
+<div>
 
-### Adversarial example generation for neural networks
+<div style="float:left">
+<h3>Adversarial example generation for neural networks</h3>
 <img src="https://chihduo.github.io/files/pyct_adv_bg.png" width="500px" />
+</div>
 
-### Fairness verification of neural networks
-<img src="https://chihduo.github.io/files/pyfair.png" width="500px" />
+<div style="float:left">
+<h3>Fairness verification of neural networks</h3>
+<img src="https://chihduo.github.io/files/pyfair.png" width="600px" />
+</div>
 
-### Regular abstraction
-<img src="https://chihduo.github.io/files/reg_abs.png" width="500px" />
-
+<div style="float:left">
+<h3>Regular abstraction</h3>
+<img src="https://chihduo.github.io/files/reg_abs.png" width="400px" />
+</div>
+</div>
 
 Teaching
 -----
