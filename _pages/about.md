@@ -35,8 +35,7 @@ For a full list, please see my [Google Scholar](https://scholar.google.com.tw/ci
 Projects
 ----
 <div>
-
-<div style="float:left">
+<div style="float:left;">
 <h3>Adversarial example generation for neural networks</h3>
 <img src="https://chihduo.github.io/files/pyct_adv_bg.png" width="500px" />
 </div>
@@ -51,6 +50,7 @@ Projects
 <img src="https://chihduo.github.io/files/reg_abs.png" width="400px" />
 </div>
 </div>
+<div style="clear:both"></div>
 
 Teaching
 -----
