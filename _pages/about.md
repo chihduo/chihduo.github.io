@@ -9,9 +9,14 @@ redirect_from:
 
 Research Interest
 -----
-- Infinite-state model checking
-- Computational learning
-- Verification and testing of neural networks
+
+I am passionate about making software systems safe for everyone! My work involves employing formal and mathematical methods to gain insights and verify how systems behave, especially those made up of numerous similar components. I love using techniques from formal verification and logic to explore this fascinating field. Below, I've outlined the main areas I focus on:
+
+- Verification and testing of software and AI systems
+- Model checking and automated generation of proofs and programs
+- Automated reasoning about modal and temporal logic
+
+I would love to supervise PhD, MSc, or BSc students interested in studying these topics. If you have an exciting project in mind, don’t hesitate to send me an email so we can chat more about it!
 
 Services
 -----
@@ -23,14 +28,17 @@ Services
 - CAV 2020 Artifact Evaluation Committee
 - LICS 2019 Reviewer
 
+News
+-----
+7.12.2024. A big congratulations to Ming-I Huang for winning the Best English Paper Award at the 20th Taiwan Conference on Software Engineering with our paper "Concolic Testing on Individual Fairness of Neural Network Models"!
+
 Recent publications
 -----
-
-- Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering, 2025. To appear. [(manuscript)](https://chihduo.github.io/files/Concolic_Testing_of_DNN_Fairness.pdf)
+- Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering, 2025. To appear. [(preprint)](https://chihduo.github.io/files/Concolic_Testing_of_DNN_Fairness.pdf)
 - Chi-Rui Chiang, Chih-Duo Hong, and Fang Yu, "Dynamic Concolication for Automatic Unit Testing of Python Libraries," 2025. [(manuscript)](https://chihduo.github.io/files/Concolic_Testing_with_Profiler.pdf)
 - Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (PACMPL), Vol.8, No.22, pp.638-666, 2024. [(arxiv)](https://arxiv.org/abs/2401.02618)
 
-For a full list, please see my [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ).
+For a complete list, please see my [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ).
 
 Projects
 ----
