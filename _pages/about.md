@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Research Interest
+I'm an Assistant Professor in the Department of Management Information Systems at National Chengchi University (NCCU) in Taiwan. Before my journey at NCCU, I had the opportunity to work as a postdoctoral researcher at Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU) in Germany. I earned my DPhil/PhD from the University of Oxford and completed my MSc and BSc at National Taiwan University.
+
+Research Interests
 -----
-I am passionate about making software systems safe for everyone! My work involves employing formal and mathematical methods to gain insights and verify how systems behave, especially those made up of numerous similar components. I love using techniques from formal verification and logic to explore this fascinating field. Below, I've outlined the main areas I focus on:
+I'm passionate about making software systems safe for everyone! My work involves employing formal and mathematical methods to gain insights and verify how systems behave, especially those made up of numerous similar components. I love using techniques from formal verification and logic to explore this fascinating field. Below, I've outlined the main areas I focus on:
 
 - Verification and testing of software and AI systems
 - Model checking and automated generation of proofs and programs
@@ -19,7 +21,7 @@ I would love to supervise PhD, MSc, or BSc students interested in studying these
 
 News
 -----
-7.12.2024. A big congratulations to Ming-I Huang for winning the Best English Paper Award at the 20th Taiwan Conference on Software Engineering!
+7.12.2024. A big congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering!
 
 Services
 -----
@@ -31,7 +33,7 @@ Services
 - CAV 2020 Artifact Evaluation Committee
 - LICS 2019 Reviewer
 
-Recent publications
+Recent Publications
 -----
 - Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering, 2025. To appear. [(preprint)](https://chihduo.github.io/files/Concolic_Testing_of_DNN_Fairness.pdf)
 - Chi-Rui Chiang, Chih-Duo Hong, and Fang Yu, "Dynamic Concolication for Automatic Unit Testing of Python Libraries," 2025. [(manuscript)](https://chihduo.github.io/files/Concolic_Testing_with_Profiler.pdf)
