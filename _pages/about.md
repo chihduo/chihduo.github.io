@@ -19,7 +19,7 @@ I would love to supervise PhD, MSc, or BSc students interested in studying these
 
 News
 -----
-7.12.2024. A big congratulations to Ming-I Huang for winning the Best English Paper Award at the 20th Taiwan Conference on Software Engineering with our paper "Concolic Testing on Individual Fairness of Neural Network Models"!
+7.12.2024. A big congratulations to Ming-I Huang for winning the Best English Paper Award at the 20th Taiwan Conference on Software Engineering!
 
 Services
 -----
