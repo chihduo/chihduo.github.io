@@ -9,14 +9,17 @@ redirect_from:
 
 Research Interest
 -----
-
 I am passionate about making software systems safe for everyone! My work involves employing formal and mathematical methods to gain insights and verify how systems behave, especially those made up of numerous similar components. I love using techniques from formal verification and logic to explore this fascinating field. Below, I've outlined the main areas I focus on:
 
 - Verification and testing of software and AI systems
 - Model checking and automated generation of proofs and programs
 - Automated reasoning about modal and temporal logic
 
-I would love to supervise PhD, MSc, or BSc students interested in studying these topics. If you have an exciting project in mind, don’t hesitate to send me an email so we can chat more about it!
+I would love to supervise PhD, MSc, or BSc students interested in studying these topics. If you have an exciting project in mind, don’t hesitate to email me so we can chat more about it!
+
+News
+-----
+7.12.2024. A big congratulations to Ming-I Huang for winning the Best English Paper Award at the 20th Taiwan Conference on Software Engineering with our paper "Concolic Testing on Individual Fairness of Neural Network Models"!
 
 Services
 -----
@@ -27,10 +30,6 @@ Services
 - [APLAS 2023](https://conf.researchr.org/home/aplas-2023) SRC & Poster Program Committee
 - CAV 2020 Artifact Evaluation Committee
 - LICS 2019 Reviewer
-
-News
------
-7.12.2024. A big congratulations to Ming-I Huang for winning the Best English Paper Award at the 20th Taiwan Conference on Software Engineering with our paper "Concolic Testing on Individual Fairness of Neural Network Models"!
 
 Recent publications
 -----
