@@ -35,11 +35,16 @@ Services
 
 Recent Publications
 -----
-- Fang Yu, Chih-Duo Hong, Ya-Yu Chi, Yu-Fang Chen, "Constraint-Based Adversarial Example Synthesis for Neural Network Models," 2025. In submission.
 - Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering, 2025. To appear. [(preprint)](https://chihduo.github.io/files/Concolic_Testing_of_DNN_Fairness.pdf)
-- Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (PACMPL), Vol.8, No.22, pp.638-666, 2024. [(arxiv)](https://arxiv.org/abs/2401.02618)
+- Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (POPL), 2024. [(arxiv)](https://arxiv.org/abs/2401.02618)
 
 For a complete list, please see my [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ).
+
+Manuscripts
+----
+- Chih-Duo Hong, Hongjian Jiang, Anthony Widjaja Lin, Micha Schrader, Oliver Markgraf, Tony Tan, "Learning and Interpreting Register Automata." Under review.
+- Chih-Duo Hong, Anthony W. Lin, Philipp Rümmer, Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification." Under review.
+- Fang Yu, Chih-Duo Hong, Ya-Yu Chi, Yu-Fang Chen, "Constraint-Based Adversarial Example Synthesis for Neural Network Models." Under review.
 
 Projects
 ----
