@@ -70,10 +70,6 @@ Teaching
 -----
 - 2025 Spring: [Software Analysis and Testing](https://newdoc.nccu.edu.tw/teaschm/1132/schmPrv.jsp-yy=113&smt=2&num=791029&gop=00&s=1.html)
 - 2024 Fall: [Fairness and Explainability in Machine Learning](https://newdoc.nccu.edu.tw/teaschm/1131/schmPrv.jsp-yy=113&smt=1&num=356814&gop=00&s=1.html)
-- 2023 Fall: [Process and Data Mining](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=356359&gop=00&s=1.html)
+- 2023 Fall: [Process Mining](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=356359&gop=00&s=1.html)
 - 2023 Summer: Automatic Safety Proof Synthesis (@FLOLAC)
-- 2023 Spring: Fairness and Explainability in Machine Learning
-
-Past course links
------
-[Fairness and Explainability in Machine Learning (Spring 2023)](https://sites.google.com/view/aisd2023)
+- 2023 Spring: [Fairness and Explainability in Machine Learning](https://sites.google.com/view/aisd2023)
