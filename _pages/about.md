@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor in the Department of Management Information Systems at National Chengchi University (NCCU) in Taiwan. Before my journey at NCCU, I had the opportunity to work as a postdoctoral researcher at Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU) in Germany. I earned my DPhil/PhD from the University of Oxford and completed my MSc and BSc at National Taiwan University.
+I'm an Assistant Professor with the Department of Management Information Systems at National Chengchi University (NCCU) in Taiwan. Before my journey at NCCU, I had the opportunity to work as a postdoctoral researcher at Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU) in Germany. I earned my DPhil/PhD from the University of Oxford and completed my MSc and BSc at National Taiwan University.
 
 Research Interests
 -----
