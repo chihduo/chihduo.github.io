@@ -61,7 +61,7 @@ Projects
 
 <div style="float:left">
 <h3>Regular abstraction</h3>
-<img src="https://chihduo.github.io/files/reg_abs.png" width="400px" />
+<img src="https://chihduo.github.io/files/reg_abs.png" width="800px" />
 </div>
 </div>
 <div style="clear:both"></div>
