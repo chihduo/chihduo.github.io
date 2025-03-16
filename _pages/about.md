@@ -25,7 +25,7 @@ News
 
 Services
 -----
-- FLOLAC 2025 Co-organizer
+- FLOLAC 2025 Organizing Committee
 - [ATVA 2024](https://atva-conference.org/2024/organization/) Program Committee
 - [TCSE 2024](https://tcse2024.seat.org.tw/) Program Committee
 - [ICALP 2024](https://compose.ioc.ee/icalp2024/#icalp) Reviewer
@@ -47,6 +47,14 @@ Manuscripts
 - Chih-Duo Hong, Anthony W. Lin, Philipp Rümmer, Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification." Under review.
 - Fang Yu, Chih-Duo Hong, Ya-Yu Chi, Yu-Fang Chen, "Constraint-Based Adversarial Example Synthesis for Neural Network Models." Under review.
 
+Teaching
+-----
+- 2025 Spring: [Software Analysis and Testing](https://newdoc.nccu.edu.tw/teaschm/1132/schmPrv.jsp-yy=113&smt=2&num=791029&gop=00&s=1.html)
+- 2024 Fall: [Fairness and Explainability in Machine Learning](https://newdoc.nccu.edu.tw/teaschm/1131/schmPrv.jsp-yy=113&smt=1&num=356814&gop=00&s=1.html)
+- 2023 Fall: [Process Mining](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=356359&gop=00&s=1.html)
+- 2023 Summer: Automatic Safety Proof Synthesis (@FLOLAC)
+- 2023 Spring: [Fairness and Explainability in Machine Learning](https://sites.google.com/view/aisd2023)
+
 Projects
 ----
 <div>
@@ -66,11 +74,3 @@ Projects
 </div>
 </div>
 <div style="clear:both"></div>
-
-Teaching
------
-- 2025 Spring: [Software Analysis and Testing](https://newdoc.nccu.edu.tw/teaschm/1132/schmPrv.jsp-yy=113&smt=2&num=791029&gop=00&s=1.html)
-- 2024 Fall: [Fairness and Explainability in Machine Learning](https://newdoc.nccu.edu.tw/teaschm/1131/schmPrv.jsp-yy=113&smt=1&num=356814&gop=00&s=1.html)
-- 2023 Fall: [Process Mining](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=356359&gop=00&s=1.html)
-- 2023 Summer: Automatic Safety Proof Synthesis (@FLOLAC)
-- 2023 Spring: [Fairness and Explainability in Machine Learning](https://sites.google.com/view/aisd2023)
