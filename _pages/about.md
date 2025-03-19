@@ -33,6 +33,7 @@ Services
 - [APLAS 2023](https://conf.researchr.org/home/aplas-2023) SRC & Poster Program Committee
 - CAV 2020 Artifact Evaluation Committee
 - LICS 2019 Reviewer
+- [Journal of Automated Reasoning](https://link.springer.com/journal/10817) Reviewer
 
 Recent Publications
 -----
