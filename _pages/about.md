@@ -19,6 +19,10 @@ I'm passionate about making software systems safe for everyone! My work involves
 
 I would love to supervise PhD, MSc, or BSc students interested in studying these topics. If you have an exciting project in mind, don’t hesitate to email me so we can chat more about it!
 
+### To new graduate students:
+
+Our lab's research theme in 2025-2027 is the synergy between AI (e.g., neural networks and LLMs) and automated software engineering (e.g., program analysis and testing). Feel free to contact me if you'd like to explore this fascinating research area in your master's program!
+
 News
 -----
 7.12.2024. A big congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering!
