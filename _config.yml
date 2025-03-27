@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : &name "Chih-Duo Hong"
-  avatar           : "https://i1.rgstatic.net/ii/profile.image/11431281204420546-1699785713744_Q512/Chih-Duo-Hong.jpg"
+  avatar           : "https://raw.githubusercontent.com/chihduo/chihduo.github.io/refs/heads/master/images/corgi.png"
   bio              : "Assistant Professor at NCCU"
   location         : "Taipei"
   employer         :
