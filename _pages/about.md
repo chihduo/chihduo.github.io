@@ -21,11 +21,13 @@ I would love to supervise PhD, MSc, or BSc students interested in studying these
 
 ### 🚀 To new graduate students 🚀
 
-Welcome aboard! Our lab's research theme in 2025-2027 is the synergy between AI (e.g., neural networks and LLMs) and automated software engineering (e.g., program analysis and testing). Feel free to contact me if you'd like to explore this fascinating research area in your master's program!
+Welcome aboard! Our lab's research theme for 2025-2027 is the synergy between AI (e.g., neural networks and large language models) and automated software engineering (e.g., program analysis, verification, and testing). Feel free to contact me if you're interested in exploring this fascinating research area in your master's program.
 
 News
 -----
-7.12.2024. A big congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering!
+21 April 2025 - A paper coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering!
+
+12 July 2024 - A big congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering! 
 
 Services
 -----
@@ -42,8 +44,8 @@ Services
 
 Recent Publications
 -----
-- Chih-Duo Hong, Anthony Lin, Philipp Rümmer, Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification," IEEE Transactions on Software Engineering. To appear.
-- Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering. To appear. [(preprint)](https://chihduo.github.io/files/Concolic_Testing_of_DNN_Fairness.pdf)
+- Chih-Duo Hong, Anthony Lin, Philipp Rümmer, Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification," IEEE Transactions on Software Engineering (TSE). To appear.
+- Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering (JISE). To appear. [(preprint)](https://chihduo.github.io/files/Concolic_Testing_of_DNN_Fairness.pdf)
 - Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (POPL), 2024. [(arxiv)](https://arxiv.org/abs/2401.02618)
 
 For a complete list, please see my [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ).
