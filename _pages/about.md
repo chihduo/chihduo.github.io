@@ -30,6 +30,7 @@ News
 Services
 -----
 - FLOLAC 2025 Organizing Committee
+- [TCSE 2025](https://tcse2025.seat.org.tw/) Program Committee
 - [ATVA 2024](https://atva-conference.org/2024/organization/) Program Committee
 - [TCSE 2024](https://tcse2024.seat.org.tw/) Program Committee
 - [ICALP 2024](https://compose.ioc.ee/icalp2024/#icalp) Reviewer
@@ -41,7 +42,8 @@ Services
 
 Recent Publications
 -----
-- Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering, 2025. To appear. [(preprint)](https://chihduo.github.io/files/Concolic_Testing_of_DNN_Fairness.pdf)
+- Chih-Duo Hong, Anthony Lin, Philipp Rümmer, Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification," IEEE Transactions on Software Engineering. To appear.
+- Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering. To appear. [(preprint)](https://chihduo.github.io/files/Concolic_Testing_of_DNN_Fairness.pdf)
 - Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (POPL), 2024. [(arxiv)](https://arxiv.org/abs/2401.02618)
 
 For a complete list, please see my [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ).
@@ -49,7 +51,6 @@ For a complete list, please see my [Google Scholar](https://scholar.google.com.t
 Manuscripts
 ----
 - Chih-Duo Hong, Hongjian Jiang, Anthony Widjaja Lin, Micha Schrader, Oliver Markgraf, Tony Tan, "Learning and Interpreting Register Automata." Under review.
-- Chih-Duo Hong, Anthony W. Lin, Philipp Rümmer, Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification." Under review.
 - Fang Yu, Chih-Duo Hong, Ya-Yu Chi, Yu-Fang Chen, "Constraint-Based Adversarial Example Synthesis for Neural Network Models." Under review.
 
 Teaching
