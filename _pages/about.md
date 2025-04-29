@@ -32,7 +32,7 @@ News
 Services
 -----
 - FLOLAC 2025 Organizing Committee
-- [TCSE 2025](https://tcse2025.seat.org.tw/) Program Committee
+- [MFCS 2025](https://mfcs2025.mimuw.edu.pl/) Reviewer
 - [ATVA 2024](https://atva-conference.org/2024/organization/) Program Committee
 - [TCSE 2024](https://tcse2024.seat.org.tw/) Program Committee
 - [ICALP 2024](https://compose.ioc.ee/icalp2024/#icalp) Reviewer
