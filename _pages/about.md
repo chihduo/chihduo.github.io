@@ -34,7 +34,6 @@ Services
 - FLOLAC 2025 Organizing Committee
 - [MFCS 2025](https://mfcs2025.mimuw.edu.pl/) Reviewer
 - [ATVA 2024](https://atva-conference.org/2024/organization/) Program Committee
-- [TCSE 2024](https://tcse2024.seat.org.tw/) Program Committee
 - [ICALP 2024](https://compose.ioc.ee/icalp2024/#icalp) Reviewer
 - [CAV 2024](https://i-cav.org/2024/) Reviewer
 - [APLAS 2023](https://conf.researchr.org/home/aplas-2023) SRC & Poster Program Committee
