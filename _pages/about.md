@@ -43,9 +43,9 @@ Services
 
 Recent Publications
 -----
-- Chih-Duo Hong, Anthony Lin, Philipp Rümmer, Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification," IEEE Transactions on Software Engineering (TSE). To appear.
+- Chih-Duo Hong, Anthony Lin, Philipp Rümmer, Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification," IEEE Transactions on Software Engineering (TSE), 2025. [(preprint)](https://arxiv.org/abs/2505.09963)
 - Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering (JISE). To appear. [(preprint)](https://chihduo.github.io/files/Concolic_Testing_of_DNN_Fairness.pdf)
-- Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (POPL), 2024. [(arxiv)](https://arxiv.org/abs/2401.02618)
+- Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (POPL), 2024. [(preprint)](https://arxiv.org/abs/2401.02618)
 
 For a complete list, please see my [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ).
 
