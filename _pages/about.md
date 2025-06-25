@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor with the Department of Management Information Systems at National Chengchi University (NCCU) in Taiwan. Before my journey at NCCU, I had the opportunity to work as a postdoctoral researcher at Rheinland-Pfälzische Technical University Kaiserslautern-Landau (RPTU) in Germany, and a visiting scholar at Uppsala University, Sweden. I earned my DPhil/PhD from the University of Oxford and completed my MSc and BSc at National Taiwan University.
+I'm an Assistant Professor with the Department of Management Information Systems at National Chengchi University (NCCU) in Taiwan. Before my journey at NCCU, I had the opportunity to work as a postdoctoral researcher at Rheinland-Pfälzische Technical University Kaiserslautern-Landau (RPTU) in Germany and as a visiting scholar at Uppsala University, Sweden. I earned my DPhil/PhD from the University of Oxford and completed my MSc and BSc at National Taiwan University.
 
 Research Interests
 -----
@@ -25,9 +25,11 @@ Welcome aboard! Our lab's research theme for 2025-2027 is the synergy between AI
 
 News
 -----
+15 June 2025 - Congratulations to Tze-An Lin for receiving the NSTC Research Grant for University Students!
+
 21 April 2025 - A paper coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering!
 
-12 July 2024 - A big congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering! 
+12 July 2024 - Congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering! 
 
 Recent Publications
 -----
@@ -57,7 +59,7 @@ Manuscripts
 
 Teaching
 -----
-- 2026 Spring: Topics in Machine Learning
+- 2026 Spring: Fairness and Explainability in Machine Learning
 - 2025 Fall: Software Analysis and Testing
 - 2025 Spring: [Software Analysis and Testing](https://newdoc.nccu.edu.tw/teaschm/1132/schmPrv.jsp-yy=113&smt=2&num=306717&gop=00&s=1.html)
 - 2024 Fall: [Fairness and Explainability in Machine Learning](https://newdoc.nccu.edu.tw/teaschm/1131/schmPrv.jsp-yy=113&smt=1&num=356814&gop=00&s=1.html)
