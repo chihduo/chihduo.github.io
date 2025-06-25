@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor with the Department of Management Information Systems at National Chengchi University (NCCU) in Taiwan. Before my journey at NCCU, I had the opportunity to work as a postdoctoral researcher at Rheinland-Pfälzische Technical University Kaiserslautern-Landau (RPTU) in Germany and as a visiting scholar at Uppsala University, Sweden. I earned my DPhil/PhD from the University of Oxford and completed my MSc and BSc at National Taiwan University.
+I'm an Assistant Professor with the Department of Management Information Systems at National Chengchi University (NCCU) in Taiwan. Before my journey at NCCU, I had the opportunity to work as a postdoctoral researcher at Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU) in Germany and as a visiting scholar at Uppsala University, Sweden. I earned my DPhil/PhD from the University of Oxford and completed my MSc and BSc at National Taiwan University.
 
 Research Interests
 -----
-My work involves employing formal and mathematical methods to gain insights and verify how systems behave, especially those made up of numerous similar components. I love using techniques from formal verification and logic to explore this fascinating field. Below, I've outlined the main areas I focus on:
+My work involves employing formal and mathematical methods to gain insights and verify how systems behave, particularly those composed of numerous similar components. I love using techniques from formal verification and logic to explore this fascinating field. Below, I've outlined the main areas I focus on:
 
 - Verification and testing of software and AI systems
 - Model checking and automated generation of proofs and programs
@@ -23,9 +23,9 @@ I would love to supervise students interested in studying these topics. If you h
 
 Welcome aboard! Our lab's research theme for 2025-2027 is the synergy between AI (e.g., neural networks and large language models) and automated software engineering (e.g., program analysis, verification, and testing). Feel free to contact me if you're interested in exploring this fascinating research area in your master's program.
 
-News
+Lab News
 -----
-15 June 2025 - Congratulations to Tze-An Lin for receiving the NSTC Research Grant for University Students!
+25 June 2025 - Congratulations to Tze-An Lin for receiving the NSTC Research Grant for University Students!
 
 21 April 2025 - A paper coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering!
 
