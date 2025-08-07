@@ -11,7 +11,7 @@ I'm an Assistant Professor with the Department of Management Information Systems
 
 Research Interests 🤓
 -----
-My work involves employing formal and mathematical methods to gain insights and verify how systems and software behave. Below are the main areas I focus on:
+My work involves employing mathematical and logical methods to gain insights into how systems and software behave. Below are the main areas I focus on:
 
 - Verification and testing of software and AI systems
 - Model checking and automated generation of proofs and programs
@@ -19,9 +19,7 @@ My work involves employing formal and mathematical methods to gain insights and 
 
 I would love to supervise students interested in studying these topics. If you have an exciting project in mind, don’t hesitate to email me so we can chat more about it!
 
-### To new graduate students 🚀
-
-Welcome aboard! Our lab's research theme for 2025-2027 is the synergy between AI (e.g., neural networks and large language models) and automated software engineering (e.g., program analysis, verification, and testing). Feel free to contact me if you're interested in exploring this fascinating research area in your master's program.
+__To new graduate students:__ Welcome aboard! Our lab's research theme for 2025-2027 is the synergy between AI (e.g., neural networks and large language models) and automated software engineering (e.g., program analysis, verification, and testing). Feel free to contact me if you're interested in exploring this fascinating research area in your master's program.
 
 Lab News ✨
 -----
