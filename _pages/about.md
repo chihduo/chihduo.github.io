@@ -9,9 +9,9 @@ redirect_from:
 
 I'm an Assistant Professor with the Department of Management Information Systems at National Chengchi University (NCCU) in Taiwan. Before my journey at NCCU, I had the opportunity to work as a postdoctoral researcher at Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU) in Germany and as a visiting scholar at Uppsala University, Sweden. I earned my DPhil/PhD from the University of Oxford and completed my MSc and BSc at National Taiwan University.
 
-Research Interests
+Research Interests 🤓
 -----
-My work involves employing formal and mathematical methods to gain insights and verify how systems behave, particularly those composed of numerous similar components. I love using techniques from formal verification and logic to explore this fascinating field. Below, I've outlined the main areas I focus on:
+My work involves employing formal and mathematical methods to gain insights and verify how systems and software behave. Below are the main areas I focus on:
 
 - Verification and testing of software and AI systems
 - Model checking and automated generation of proofs and programs
@@ -19,19 +19,19 @@ My work involves employing formal and mathematical methods to gain insights and 
 
 I would love to supervise students interested in studying these topics. If you have an exciting project in mind, don’t hesitate to email me so we can chat more about it!
 
-### 🚀 To new graduate students 🚀
+### To new graduate students 🚀
 
 Welcome aboard! Our lab's research theme for 2025-2027 is the synergy between AI (e.g., neural networks and large language models) and automated software engineering (e.g., program analysis, verification, and testing). Feel free to contact me if you're interested in exploring this fascinating research area in your master's program.
 
-Lab News
+Lab News ✨
 -----
-25 June 2025 - Congratulations to Tze-An Lin for receiving the NSTC Research Grant for University Students!
+25 June 2025 - Congratulations to Tze-An Lin for receiving the NSTC Research Grant for University Students! 🤗
 
-21 April 2025 - A paper coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering!
+21 April 2025 - A paper coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering! 💪
 
-12 July 2024 - Congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering! 
+12 July 2024 - Congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering! 😊
 
-Recent Publications
+Recent Publications 🚀
 -----
 - Chih-Duo Hong, Anthony Lin, Philipp Rümmer, Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification," IEEE Transactions on Software Engineering (TSE), 2025. [(preprint)](https://arxiv.org/abs/2505.09963)
 - Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering (JISE). To appear. [(preprint)](https://chihduo.github.io/files/Concolic_Testing_of_DNN_Fairness.pdf)
@@ -39,7 +39,7 @@ Recent Publications
 
 For a complete list, please see my [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ).
 
-Services
+Services 🤵🏻
 -----
 
 - Program committee: [ATVA'24](https://atva-conference.org/2024/organization/), VMCAI'26
@@ -48,12 +48,12 @@ Services
 - Journal reviewer: [Journal of Automated Reasoning](https://link.springer.com/journal/10817)
 - [FLOLAC 2025](https://flolac.iis.sinica.edu.tw/zh/2025/) Organizing Committee
 
-Manuscripts
+Manuscripts ✍️
 ----
 - Chih-Duo Hong, Hongjian Jiang, Anthony Widjaja Lin, Micha Schrader, Oliver Markgraf, Tony Tan, "Learning and Interpreting Register Automata." Under review.
 - Fang Yu, Chih-Duo Hong, Ya-Yu Chi, Yu-Fang Chen, "Constraint-Based Adversarial Example Synthesis for Neural Network Models." Under review.
 
-Teaching
+Teaching 👨🏻‍🏫
 -----
 - 2025 Fall: [Software Analysis and Testing](https://newdoc.nccu.edu.tw/teaschm/1141/schmPrv.jsp-yy=114&smt=1&num=306717&gop=00&s=1.html)
 - 2025 Spring: [Software Analysis and Testing](https://newdoc.nccu.edu.tw/teaschm/1132/schmPrv.jsp-yy=113&smt=2&num=306717&gop=00&s=1.html)
@@ -61,6 +61,47 @@ Teaching
 - 2023 Fall: [Process Mining](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=356359&gop=00&s=1.html)
 - 2023 Spring: [Fairness and Explainability in Machine Learning](https://sites.google.com/view/aisd2023)
 
+Research 🧐
+---
+Below is some advice I believe very helpful to junior researchers (like me), post-docs, and PhD students.
+
+#### Core Principles ✨
+
+* **Value your time.** Protect it wisely.
+* **Master the power of writing.** This includes natural languages, programming languages, and mathematical proofs.
+* **Strive for clarity of thought.**
+* Above all, **be kind**.
+
+#### For PhD Students 🎓
+
+A PhD is an intense yet rewarding personal journey. You are not alone; here is some advice from fellow PhD students and graduates who have walked this path:
+
+* [Karl Stratos](https://karlstratos.com/student.php)
+* [Kevin Gimpel](https://home.ttic.edu/~kgimpel/etc/phd-advice.pdf)
+* [Matt Might](https://matt.might.net/articles/phd-school-in-pictures/) ("The Illustrated Guide to a Ph.D.")
+* [Ben Chugg](https://benchugg.com/writing/phd-thoughts/)
+
+#### Research Skills 🤔
+
+Essential advice on research from leading figures in the field:
+
+* **On Doing Research**: [R. W. Hamming](https://www.cs.utexas.edu/~dahlin/bookshelf/hamming.html) ("You and Your Research")
+* **Career Advice**: [Terence Tao](https://terrytao.wordpress.com/career-advice/)
+* **How to Speak**: [Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
+* **How to Do Theory**: [Ankur Moitra](https://people.csail.mit.edu/moitra/docs/Let3.pdf)
+* **How to Read Papers**: [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/checklists/reading-tips.pdf)
+* **How to Write Technical Content**: [John N. Tsitsiklis](https://www.mit.edu/~jnt/Papers/R-20-write-v5.pdf)
+* **Advice on Various Topics**: [LeT-All](https://let-all.com/) (Learning Theory Alliance)
+
+Wondering "Why theory/math?" Watch this compelling [talk by Fields Medalist Tim Gowers](https://www.youtube.com/watch?v=YoL3LfY3ogg).
+
+
+Hobby 🕺🕺
+----
+I am a <a href="https://en.wikipedia.org/wiki/Dance_Dance_Revolution">Dance Dance Revolution</a> enthusiast. The software I use is <a href="https://www.stepmania.com/">Stepmania</a>, and the dance pad I use is <a href="https://www.maty-taneczne.pl/shop/ltek-ex-pro-x-the-handbar/">Dance mat LTEK EX PRO X</a>. I mostly dance to Anime and K-pop songs.
+
+
+<!--
 Past Projects
 ----
 <div>
@@ -80,3 +121,4 @@ Past Projects
 </div>
 </div>
 <div style="clear:both"></div>
+-->
