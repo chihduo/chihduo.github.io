@@ -41,16 +41,12 @@ For a complete list, please see my [Google Scholar](https://scholar.google.com.t
 
 Services
 -----
+
+- Program committee: [ATVA'24](https://atva-conference.org/2024/organization/), VMCAI'26
+- SRC/AE committee: [CAV'20](https://i-cav.org/2020/), [APLAS'23](https://conf.researchr.org/home/aplas-2023)
+- Conference reviewer: [ICALP'24](https://compose.ioc.ee/icalp2024/#icalp), [CAV'24](https://i-cav.org/2024/), [MFCS'25](https://mfcs2025.mimuw.edu.pl/), AAAI'26
+- Journal reviewer: [Journal of Automated Reasoning](https://link.springer.com/journal/10817)
 - [FLOLAC 2025](https://flolac.iis.sinica.edu.tw/zh/2025/) Organizing Committee
-- [MFCS 2025](https://mfcs2025.mimuw.edu.pl/) Reviewer
-- [ATVA 2024](https://atva-conference.org/2024/organization/) Program Committee
-- [ICALP 2024](https://compose.ioc.ee/icalp2024/#icalp) Reviewer
-- [CAV 2024](https://i-cav.org/2024/) Reviewer
-- [APLAS 2023](https://conf.researchr.org/home/aplas-2023) SRC & Poster Program Committee
-- [Journal of Automated Reasoning](https://link.springer.com/journal/10817) Reviewer
-- CAV 2020 Artifact Evaluation Committee
-- iFM 2020 Reviewer
-- LICS 2019 Reviewer
 
 Manuscripts
 ----
@@ -59,8 +55,7 @@ Manuscripts
 
 Teaching
 -----
-- 2026 Spring: Fairness and Explainability in Machine Learning
-- 2025 Fall: Software Analysis and Testing
+- 2025 Fall: [Software Analysis and Testing](https://newdoc.nccu.edu.tw/teaschm/1141/schmPrv.jsp-yy=114&smt=1&num=306717&gop=00&s=1.html)
 - 2025 Spring: [Software Analysis and Testing](https://newdoc.nccu.edu.tw/teaschm/1132/schmPrv.jsp-yy=113&smt=2&num=306717&gop=00&s=1.html)
 - 2024 Fall: [Fairness and Explainability in Machine Learning](https://newdoc.nccu.edu.tw/teaschm/1131/schmPrv.jsp-yy=113&smt=1&num=356814&gop=00&s=1.html)
 - 2023 Fall: [Process Mining](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=356359&gop=00&s=1.html)
