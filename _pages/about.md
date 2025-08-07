@@ -63,14 +63,14 @@ Research 🧐
 ---
 Below is some advice I believe very helpful to junior researchers (like me), post-docs, and PhD students.
 
-#### Core Principles ✨
+### Core Principles ✨
 
 * **Value your time.** Protect it wisely.
 * **Master the power of writing.** This includes natural languages, programming languages, and mathematical proofs.
 * **Strive for clarity of thought.**
 * Above all, **be kind**.
 
-#### For PhD Students 🎓
+### For PhD Students 🎓
 
 A PhD is an intense yet rewarding personal journey. You are not alone; here is some advice from fellow PhD students and graduates who have walked this path:
 
@@ -79,7 +79,7 @@ A PhD is an intense yet rewarding personal journey. You are not alone; here is s
 * [Matt Might](https://matt.might.net/articles/phd-school-in-pictures/) ("The Illustrated Guide to a Ph.D.")
 * [Ben Chugg](https://benchugg.com/writing/phd-thoughts/)
 
-#### Research Skills 🤔
+### Research Skills 🤔
 
 Essential advice on research from leading figures in the field:
 
