@@ -61,7 +61,7 @@ Teaching 👨🏻‍🏫
 
 Research 🧐
 ---
-Below is some advice I believe very helpful to junior researchers (like me), post-docs, and PhD students.
+Below is some advice I feel very helpful to junior researchers (like me), postdocs, and PhD students.
 
 ### Core Principles ✨
 
@@ -83,20 +83,20 @@ A PhD is an intense yet rewarding personal journey. You are not alone; here is s
 
 Essential advice on research from leading figures in the field:
 
-* **On Doing Research**: [R. W. Hamming](https://www.cs.utexas.edu/~dahlin/bookshelf/hamming.html) ("You and Your Research")
-* **Career Advice**: [Terence Tao](https://terrytao.wordpress.com/career-advice/)
-* **How to Speak**: [Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
-* **How to Do Theory**: [Ankur Moitra](https://people.csail.mit.edu/moitra/docs/Let3.pdf)
-* **How to Read Papers**: [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/checklists/reading-tips.pdf)
-* **How to Write Technical Content**: [John N. Tsitsiklis](https://www.mit.edu/~jnt/Papers/R-20-write-v5.pdf)
-* **Advice on Various Topics**: [LeT-All](https://let-all.com/) (Learning Theory Alliance)
+* On Doing Research: [R. W. Hamming](https://www.cs.utexas.edu/~dahlin/bookshelf/hamming.html) ("You and Your Research")
+* Career Advice: [Terence Tao](https://terrytao.wordpress.com/career-advice/)
+* How to Speak: [Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
+* How to Do Theory: [Ankur Moitra](https://people.csail.mit.edu/moitra/docs/Let3.pdf)
+* How to Read Papers: [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/checklists/reading-tips.pdf)
+* How to Write Technical Content: [John N. Tsitsiklis](https://www.mit.edu/~jnt/Papers/R-20-write-v5.pdf)
+* Advice on Various Topics: [LeT-All](https://let-all.com/) (Learning Theory Alliance)
 
 Wondering "Why theory/math?" Watch this compelling [talk by Fields Medalist Tim Gowers](https://www.youtube.com/watch?v=YoL3LfY3ogg).
 
 
-Hobby 🕺🕺
+Hobby
 ----
-I am a <a href="https://en.wikipedia.org/wiki/Dance_Dance_Revolution">Dance Dance Revolution</a> enthusiast. The software I use is <a href="https://www.stepmania.com/">Stepmania</a>, and the dance pad I use is <a href="https://www.maty-taneczne.pl/shop/ltek-ex-pro-x-the-handbar/">Dance mat LTEK EX PRO X</a>. I mostly dance to Anime and K-pop songs.
+I am a <a href="https://en.wikipedia.org/wiki/Dance_Dance_Revolution">Dance Dance Revolution</a> enthusiast. The software I use is <a href="https://www.stepmania.com/">Stepmania</a>, and the dance pad I use is <a href="https://www.maty-taneczne.pl/shop/ltek-ex-pro-x-the-handbar/">Dance mat LTEK EX PRO X</a>. I mostly dance to Anime and K-pop songs 🕺🕺
 
 
 <!--
