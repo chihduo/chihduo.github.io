@@ -40,9 +40,9 @@ For a complete list, please see my [Google Scholar](https://scholar.google.com.t
 Services 🤵🏻
 -----
 
-- Program committee: [ATVA'24](https://atva-conference.org/2024/organization/), VMCAI'26
+- Program committee: [ATVA'24](https://atva-conference.org/2024/organization/), [VMCAI'26](https://conf.researchr.org/home/VMCAI-2026)
 - SRC/AE committee: [CAV'20](https://i-cav.org/2020/), [APLAS'23](https://conf.researchr.org/home/aplas-2023)
-- Conference reviewer: [ICALP'24](https://compose.ioc.ee/icalp2024/#icalp), [CAV'24](https://i-cav.org/2024/), [MFCS'25](https://mfcs2025.mimuw.edu.pl/), AAAI'26
+- Conference reviewer: [ICALP'24](https://compose.ioc.ee/icalp2024/#icalp), [CAV'24](https://i-cav.org/2024/), [MFCS'25](https://mfcs2025.mimuw.edu.pl/), [AAAI'26](https://aaai.org/conference/aaai/aaai-26/)
 - Journal reviewer: [Journal of Automated Reasoning](https://link.springer.com/journal/10817)
 - [FLOLAC 2025](https://flolac.iis.sinica.edu.tw/zh/2025/) Organizing Committee
 
@@ -65,10 +65,10 @@ Below is some advice I feel very helpful to junior researchers (like me), postdo
 
 ### Core Principles ✨
 
-* **Value your time.** Protect it wisely.
-* **Master the power of writing.** This includes natural languages, programming languages, and mathematical proofs.
-* **Strive for clarity of thought.**
-* Above all, **be kind**.
+* *Value your time.* Protect it wisely.
+* *Master the power of writing.* This includes natural languages, programming languages, and mathematical proofs.
+* *Strive for clarity of thought.*
+* Above all, *be kind*.
 
 ### For PhD Students 🎓
 
