@@ -37,6 +37,11 @@ Recent Publications 🚀
 
 For a complete list, please see my [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ).
 
+Manuscripts ✍️
+----
+- Chih-Duo Hong, Hongjian Jiang, Anthony Widjaja Lin, Micha Schrader, Oliver Markgraf, Tony Tan, "Learning and Interpreting Register Automata." Under review.
+- Chih-Duo Hong, Wang Yu, Yao-Chen Chang, Fang Yu, "Concolic Testing on Inference Decision Logic of Neural Network Models" Under review. ([preprint](https://chihduo.github.io/files/Influence_Guided_Concolic_Testing_on_Transformer.pdf))
+
 Services 🤵🏻
 -----
 
@@ -45,11 +50,6 @@ Services 🤵🏻
 - Conference reviewer: [ICALP'24](https://compose.ioc.ee/icalp2024/#icalp), [CAV'24](https://i-cav.org/2024/), [MFCS'25](https://mfcs2025.mimuw.edu.pl/), [AAAI'26](https://aaai.org/conference/aaai/aaai-26/)
 - Journal reviewer: [Journal of Automated Reasoning](https://link.springer.com/journal/10817)
 - [FLOLAC 2025](https://flolac.iis.sinica.edu.tw/zh/2025/) Organizing Committee
-
-Manuscripts ✍️
-----
-- Chih-Duo Hong, Hongjian Jiang, Anthony Widjaja Lin, Micha Schrader, Oliver Markgraf, Tony Tan, "Learning and Interpreting Register Automata." Under review.
-- Fang Yu, Chih-Duo Hong, Ya-Yu Chi, Yu-Fang Chen, "Constraint-Based Adversarial Example Synthesis for Neural Network Models." Under review.
 
 Teaching 👨🏻‍🏫
 -----
