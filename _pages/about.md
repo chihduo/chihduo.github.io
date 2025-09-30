@@ -40,7 +40,7 @@ For a complete list, please see my [Google Scholar](https://scholar.google.com.t
 Manuscripts ✍️
 ----
 - Chih-Duo Hong, Hongjian Jiang, Anthony Widjaja Lin, Micha Schrader, Oliver Markgraf, Tony Tan, "Learning and Interpreting Register Automata." Under review.
-- Chih-Duo Hong, Wang Yu, Yao-Chen Chang, Fang Yu, "Concolic Testing on Inference Decision Logic of Neural Network Models" Under review. ([preprint](https://chihduo.github.io/files/Influence_Guided_Concolic_Testing_on_Transformers.pdf))
+- Chih-Duo Hong, Wang Yu, Yao-Chen Chang, Fang Yu, "Concolic Testing on Inference Decision Logic of Neural Network Models" Under review. ([preprint](https://arxiv.org/abs/2509.23806))
 
 Services 🤵🏻
 -----
@@ -61,6 +61,7 @@ Teaching 👨🏻‍🏫
 
 Research 🧐
 ---
+<!--
 Below is some advice I feel very helpful to junior researchers (like me), postdocs, and PhD students.
 
 ### Core Principles ✨
@@ -69,6 +70,7 @@ Below is some advice I feel very helpful to junior researchers (like me), postdo
 * *Master the power of writing.* This includes natural languages, programming languages, and mathematical proofs.
 * *Strive for clarity of thought.*
 * Above all, *be kind*.
+-->
 
 ### For PhD Students 🎓
 
@@ -92,7 +94,6 @@ Essential advice on research from leading figures in the field:
 * Advice on Various Topics: [LeT-All](https://let-all.com/) (Learning Theory Alliance)
 
 Wondering "Why theory/math?" Watch this compelling [talk by Fields Medalist Tim Gowers](https://www.youtube.com/watch?v=YoL3LfY3ogg).
-
 
 Hobby
 ----
