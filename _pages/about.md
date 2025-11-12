@@ -23,11 +23,11 @@ __To new graduate students:__ Welcome aboard! Our lab's research theme for 2025-
 
 Lab News ✨
 -----
-25 June 2025 - Congratulations to Tze-An Lin for receiving the NSTC Research Grant for University Students! 🤗
+June 2025 - Congratulations to Tze-An Lin for receiving the NSTC Research Grant for University Students! 🤗
 
-21 April 2025 - A paper coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering! 💪
+April 2025 - A paper coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering! 💪
 
-12 July 2024 - Congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering! 😊
+July 2024 - Congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering! 😊
 
 Recent Publications 🚀
 -----
@@ -40,7 +40,7 @@ For a complete list, please see my [Google Scholar](https://scholar.google.com.t
 Manuscripts ✍️
 ----
 - Chih-Duo Hong, Hongjian Jiang, Anthony Widjaja Lin, Micha Schrader, Oliver Markgraf, Tony Tan, "Learning and Interpreting Register Automata." Under review.
-- Chih-Duo Hong, Wang Yu, Yao-Chen Chang, Fang Yu, "Concolic Testing on Inference Decision Logic of Neural Network Models" Under review. ([preprint](https://arxiv.org/abs/2509.23806))
+- Chih-Duo Hong, Wang Yu, Yao-Chen Chang, Fang Yu, "Influence-Guided Concolic Testing of Transformer Robustness" Under review. ([preprint](https://arxiv.org/abs/2509.23806))
 
 Services 🤵🏻
 -----
