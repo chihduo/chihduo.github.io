@@ -48,8 +48,8 @@ Services 🤵🏻
 - Program committee: [ATVA'24](https://atva-conference.org/2024/organization/), [VMCAI'26](https://conf.researchr.org/home/VMCAI-2026)
 - SRC/AE committee: [CAV'20](https://i-cav.org/2020/), [APLAS'23](https://conf.researchr.org/home/aplas-2023)
 - Conference reviewer: [ICALP'24](https://compose.ioc.ee/icalp2024/#icalp), [CAV'24](https://i-cav.org/2024/), [MFCS'25](https://mfcs2025.mimuw.edu.pl/), [AAAI'26](https://aaai.org/conference/aaai/aaai-26/)
-- Journal reviewer: [Journal of Automated Reasoning](https://link.springer.com/journal/10817)
-- [FLOLAC 2025](https://flolac.iis.sinica.edu.tw/zh/2025/) Organizing Committee
+- Journal reviewer: [Journal of Automated Reasoning](https://link.springer.com/journal/10817), [Scientific Reports](https://www.nature.com/srep/)
+- Lecturer: [FLOLAC'23](https://flolac.iis.sinica.edu.tw/zh/2023/), [FLOLAC'25](https://flolac.iis.sinica.edu.tw/zh/2025/)
 
 Teaching 👨🏻‍🏫
 -----
@@ -62,7 +62,7 @@ Teaching 👨🏻‍🏫
 Research 🧐
 ---
 <!--
-Below is some advice I feel very helpful to junior researchers (like me), postdocs, and PhD students.
+Below is some advice I feel is very helpful to junior researchers (like me), postdocs, and PhD students.
 
 ### Core Principles ✨
 
@@ -99,6 +99,11 @@ Hobby
 ----
 I am a <a href="https://en.wikipedia.org/wiki/Dance_Dance_Revolution">Dance Dance Revolution</a> enthusiast. The software I use is <a href="https://www.stepmania.com/">Stepmania</a>, and the dance pad I use is <a href="https://www.maty-taneczne.pl/shop/ltek-ex-pro-x-the-handbar/">Dance mat LTEK EX PRO X</a>. I mostly dance to Anime and K-pop songs 🕺🕺
 
+Photo
+----
+Captured this lovely night view of NCCU during my walk. 🌙✨
+<p />
+<img src="https://chihduo.github.io/images/IMG_20251018_182637405_HDR_AE.jpg" />
 
 <!--
 Past Projects
