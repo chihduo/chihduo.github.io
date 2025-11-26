@@ -39,8 +39,8 @@ For a complete list, please see my [Google Scholar](https://scholar.google.com.t
 
 Manuscripts ✍️
 ----
-- Chih-Duo Hong, Hongjian Jiang, Anthony Widjaja Lin, Micha Schrader, Oliver Markgraf, Tony Tan, "Learning and Interpreting Register Automata." Under review.
-- Chih-Duo Hong, Wang Yu, Yao-Chen Chang, Fang Yu, "Influence-Guided Concolic Testing of Transformer Robustness" Under review. ([preprint](https://arxiv.org/abs/2509.23806))
+- Chih-Duo Hong, Hongjian Jiang, Anthony Lin, Oliver Markgraf, Julian Parsert, Tony Tan, "Extracting Robust Register Automata from Neural Networks over Data Sequences." Under review. ([preprint](https://arxiv.org/abs/2511.19100))
+- Chih-Duo Hong, Wang Yu, Yao-Chen Chang, Fang Yu, "Influence-Guided Concolic Testing of Transformer Robustness." Under review. ([preprint](https://arxiv.org/abs/2509.23806))
 
 Services 🤵🏻
 -----
