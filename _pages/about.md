@@ -11,7 +11,7 @@ I'm an Assistant Professor with the Department of Management Information Systems
 
 Research Interests 🤓
 -----
-My work involves employing mathematical and logical methods to gain insights into how systems and software behave. Below are the main areas I focus on:
+My work involves employing mathematical and logical methods to gain insights into how systems and software behave. Below are some areas I focus on:
 
 - Verification and testing of software and AI systems
 - Model checking and automated generation of proofs and programs
@@ -31,8 +31,8 @@ July 2024 - Congratulations to Ming-I Huang for winning the Best English Paper A
 
 Recent Publications 🚀
 -----
-- Chih-Duo Hong, Anthony Lin, Philipp Rümmer, Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification," IEEE Transactions on Software Engineering (TSE), 2025. [(preprint)](https://arxiv.org/abs/2505.09963)
-- Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering (JISE). To appear. [(preprint)](https://chihduo.github.io/files/Concolic_Testing_of_DNN_Fairness.pdf)
+- Chih-Duo Hong, Anthony Lin, Philipp Rümmer, and Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification," IEEE Transactions on Software Engineering (TSE), 2025. [(preprint)](https://arxiv.org/abs/2505.09963)
+- Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering (JISE), 2025. [(preprint)](https://chihduo.github.io/files/Concolic_Testing_of_DNN_Fairness.pdf)
 - Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (POPL), 2024. [(preprint)](https://arxiv.org/abs/2401.02618)
 
 For a complete list, please see my [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ).
@@ -103,7 +103,7 @@ Photo
 ----
 Captured this lovely night view of NCCU during my walk. 🌙✨
 <p />
-<img src="https://chihduo.github.io/images/IMG_20251018_182637405_HDR_AE.jpg" />
+<a href="https://chihduo.github.io/images/IMG_20251018_182637405_HDR_AE.jpg"><img src="https://chihduo.github.io/images/IMG_20251018_182637405_HDR_AE.jpg" /></a>
 
 <!--
 Past Projects
@@ -121,7 +121,7 @@ Past Projects
 
 <div style="float:left">
 <h3>Regular abstraction</h3>
-<img src="https://chihduo.github.io/files/reg_abs.png" width="800px" />
+<a href=""><img src="https://chihduo.github.io/files/reg_abs.png" width="800px" /></a>
 </div>
 </div>
 <div style="clear:both"></div>
