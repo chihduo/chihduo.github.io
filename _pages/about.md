@@ -48,7 +48,7 @@ Services 🤵🏻
 - Program committee: [ATVA'24](https://atva-conference.org/2024/organization/), [VMCAI'26](https://conf.researchr.org/home/VMCAI-2026)
 - SRC/AE committee: [CAV'20](https://i-cav.org/2020/), [APLAS'23](https://conf.researchr.org/home/aplas-2023)
 - Conference reviewer: [ICALP'24](https://compose.ioc.ee/icalp2024/#icalp), [CAV'24](https://i-cav.org/2024/), [MFCS'25](https://mfcs2025.mimuw.edu.pl/), [AAAI'26](https://aaai.org/conference/aaai/aaai-26/)
-- Journal reviewer: [Journal of Automated Reasoning](https://link.springer.com/journal/10817), [Scientific Reports](https://www.nature.com/srep/)
+- Journal reviewer: [Journal of Automated Reasoning](https://link.springer.com/journal/10817), [Scientific Reports](https://www.nature.com/srep/), [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management)
 - Lecturer: [FLOLAC'23](https://flolac.iis.sinica.edu.tw/zh/2023/), [FLOLAC'25](https://flolac.iis.sinica.edu.tw/zh/2025/)
 
 Teaching 👨🏻‍🏫
