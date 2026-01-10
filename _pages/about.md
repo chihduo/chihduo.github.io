@@ -53,7 +53,7 @@ Services 🤵🏻
 
 Teaching 👨🏻‍🏫
 -----
-- 2026 Sprint: [Advanced Software Development](https://newdoc.nccu.edu.tw/teaschm/1142/schmPrv.jsp-yy=114&smt=2&num=356813&gop=00&s=1.html)
+- 2026 Spring: [Advanced Software Development](https://newdoc.nccu.edu.tw/teaschm/1142/schmPrv.jsp-yy=114&smt=2&num=356813&gop=00&s=1.html)
 - 2025 Fall: [Software Analysis and Testing](https://newdoc.nccu.edu.tw/teaschm/1141/schmPrv.jsp-yy=114&smt=1&num=306717&gop=00&s=1.html)
 - 2025 Spring: [Software Analysis and Testing](https://newdoc.nccu.edu.tw/teaschm/1132/schmPrv.jsp-yy=113&smt=2&num=306717&gop=00&s=1.html)
 - 2024 Fall: [Fairness and Explainability in Machine Learning](https://newdoc.nccu.edu.tw/teaschm/1131/schmPrv.jsp-yy=113&smt=1&num=356814&gop=00&s=1.html)
