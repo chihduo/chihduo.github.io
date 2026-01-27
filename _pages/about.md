@@ -48,7 +48,7 @@ Services 🤵🏻
 - Program committee: [ATVA'24](https://atva-conference.org/2024/organization/), [VMCAI'26](https://conf.researchr.org/home/VMCAI-2026)
 - SRC/AE committee: [CAV'20](https://i-cav.org/2020/), [APLAS'23](https://conf.researchr.org/home/aplas-2023)
 - Conference reviewer: [ICALP'24](https://compose.ioc.ee/icalp2024/#icalp), [CAV'24](https://i-cav.org/2024/), [MFCS'25](https://mfcs2025.mimuw.edu.pl/), [AAAI'26](https://aaai.org/conference/aaai/aaai-26/)
-- Journal reviewer: [JAR](https://link.springer.com/journal/10817), [SR](https://www.nature.com/srep/), [IP&M](https://www.sciencedirect.com/journal/information-processing-and-management)
+- Journal reviewer: [JAR](https://link.springer.com/journal/10817), [SR](https://www.nature.com/srep/), [IP&M](https://www.sciencedirect.com/journal/information-processing-and-management), [JoS](https://link.springer.com/journal/11227)
 - Lecturer: [FLOLAC'23](https://flolac.iis.sinica.edu.tw/zh/2023/), [FLOLAC'25](https://flolac.iis.sinica.edu.tw/zh/2025/)
 
 Teaching 👨🏻‍🏫
@@ -103,9 +103,13 @@ I am a <a href="https://en.wikipedia.org/wiki/Dance_Dance_Revolution">Dance Danc
 
 Photo
 ----
-Captured this lovely night view of NCCU during my walk. 🌙✨
+Below are some photos I took during my walk around the campus 🌙✨
 <p />
 <a href="https://chihduo.github.io/images/IMG_20251018_182637405_HDR_AE.jpg"><img src="https://chihduo.github.io/images/IMG_20251018_182637405_HDR_AE.jpg" /></a>
+<p />
+<a href="https://chihduo.github.io/images/IMG_20260118_180440489_HDR_AE~2.jpg"><img src="https://chihduo.github.io/images/IMG_20260118_180440489_HDR_AE~2.jpg" /></a>
+<p />
+<a href="https://chihduo.github.io/images/IMG_20260125_163300539_HDR_AE~2.jpg"><img src="https://chihduo.github.io/images/IMG_20260125_163300539_HDR_AE~2.jpg" /></a>
 
 <!--
 Past Projects
