@@ -100,6 +100,9 @@ Wondering "Why theory/math?" Watch this compelling [talk by Fields Medalist Tim 
 Hobby
 ----
 I am a <a href="https://en.wikipedia.org/wiki/Dance_Dance_Revolution">Dance Dance Revolution</a> enthusiast. The software I use is <a href="https://www.stepmania.com/">Stepmania</a>, and the dance pad I use is <a href="https://www.maty-taneczne.pl/shop/ltek-ex-pro-x-the-handbar/">Dance mat LTEK EX PRO X</a>. I mostly dance to Anime and K-pop songs 🕺🕺
+- [Zenius-I-vanisher](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles)
+- [Stepmania Online](https://stepmaniaonline.net/)
+- [Etterna Online](etternaonline.com)
 
 Photo
 ----
