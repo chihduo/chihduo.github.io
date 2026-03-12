@@ -23,11 +23,13 @@ __To new graduate students:__ Welcome aboard! Our lab's research theme for 2025-
 
 Lab News ✨
 -----
-June 2025 - Congratulations to Tze-An Lin for receiving the NSTC Research Grant for University Students! 🤗
+Feb 2026 - Gratefully acknowledge the College of Commerce for their support through another 3 years of merit-based faculty research stipend. 😊
 
-April 2025 - A paper coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering! 💪
+Jun 2025 - Congratulations to Tze-An Lin for receiving the NSTC Research Grant for University Students! 🤗
 
-July 2024 - Congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering! 😊
+Apr 2025 - A paper coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering! 💪
+
+Jul 2024 - Congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering! 😊
 
 Recent Publications 🚀
 -----
@@ -102,7 +104,7 @@ Hobby
 I am a <a href="https://en.wikipedia.org/wiki/Dance_Dance_Revolution">Dance Dance Revolution</a> enthusiast. The software I use is <a href="https://www.stepmania.com/">Stepmania</a>, and the dance pad I use is <a href="https://www.maty-taneczne.pl/shop/ltek-ex-pro-x-the-handbar/">Dance mat LTEK EX PRO X</a>. I mostly dance to Anime and K-pop songs 🕺🕺
 - [Zenius-I-vanisher](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles)
 - [Stepmania Online](https://stepmaniaonline.net/)
-- [Etterna Online](etternaonline.com)
+- [Etterna Online](https://etternaonline.com)
 
 Photo
 ----
