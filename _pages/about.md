@@ -34,7 +34,7 @@ Jul 2024 - Congratulations to Ming-I Huang for winning the Best English Paper Aw
 Recent Publications 🚀
 -----
 - Chih-Duo Hong, Anthony Lin, Philipp Rümmer, and Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification," IEEE Transactions on Software Engineering (TSE), 2025. [(preprint)](https://arxiv.org/abs/2505.09963)
-- Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering (JISE), 2025. [(preprint)](https://chihduo.github.io/files/Concolic_Testing_of_DNN_Fairness.pdf)
+- Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering (JISE), 2025. [(preprint)](https://arxiv.org/abs/2509.06864)
 - Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (POPL), 2024. [(preprint)](https://arxiv.org/abs/2401.02618)
 
 For a complete list, please see my [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ).
