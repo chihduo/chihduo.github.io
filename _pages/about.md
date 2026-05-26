@@ -23,13 +23,15 @@ __To new graduate students:__ Welcome aboard! Our lab's research theme for 2025-
 
 Lab News ✨
 -----
+May 2026 - Congratulations to Li-Jen Lin for getting his paper accepted at IEEE AITest! 🎉
+
 Feb 2026 - Gratefully acknowledge the College of Commerce for their support through another 3 years of merit-based faculty research stipend. 😊
 
 Jun 2025 - Congratulations to Tze-An Lin for receiving the NSTC Research Grant for University Students! 🤗
 
 Apr 2025 - A paper coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering! 💪
 
-Jul 2024 - Congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering! 😊
+Jul 2024 - Congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering! 🎉
 
 Recent Publications 🚀
 -----
@@ -99,12 +101,11 @@ Essential advice on research from leading figures in the field:
 
 Wondering "Why theory/math?" Watch this compelling [talk by Fields Medalist Tim Gowers](https://www.youtube.com/watch?v=YoL3LfY3ogg).
 
-Hobby
+Hobby 😎
 ----
 I am a <a href="https://en.wikipedia.org/wiki/Dance_Dance_Revolution">Dance Dance Revolution</a> enthusiast. The software I use is <a href="https://www.stepmania.com/">Stepmania</a>, and the dance pad I use is <a href="https://www.maty-taneczne.pl/shop/ltek-ex-pro-x-the-handbar/">Dance mat LTEK EX PRO X</a>. I mostly dance to Anime and K-pop songs 🕺🕺
-- [Zenius-I-vanisher](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles)
-- [Stepmania Online](https://stepmaniaonline.net/)
-- [Etterna Online](https://etternaonline.com)
+- [My play dashboard](https://fmlab.nccu.edu.tw/stepmania/) 🔮
+- Useful links: [Zenius-I-vanisher](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles), [Stepmania Online](https://stepmaniaonline.net/), [Etterna Online](https://etternaonline.com)
 
 Photo
 ----
