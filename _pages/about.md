@@ -27,7 +27,7 @@ May 2026 - Congratulations to Li-Jen Lin for getting his paper accepted at IEEE 
 
 Feb 2026 - Gratefully acknowledge the College of Commerce for their support through another 3 years of merit-based faculty research stipend. 😊
 
-Jun 2025 - Congratulations to Tze-An Lin for receiving the NSTC Research Grant for University Students! 🤗
+Jun 2025 - Congratulations to Tze-An Lin for receiving the NSTC Research Grant for University Students! 🎉
 
 Apr 2025 - A paper coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering! 💪
 
