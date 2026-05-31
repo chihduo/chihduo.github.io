@@ -23,15 +23,17 @@ __To new graduate students:__ Welcome aboard! Our lab's research theme for 2025-
 
 Lab News ✨
 -----
-May 2026 - Congratulations to Li-Jen Lin for getting his paper accepted at IEEE AITest! 🎉
+Jun 2026 - Congrats to Dong Chen and Chih-Cheng Yang for two papers accepted at the 26th International Conference on Software Quality, Reliability, and Security! 🎉
 
-Feb 2026 - Gratefully acknowledge the College of Commerce for their support through another 3 years of merit-based faculty research stipend. 😊
+May 2026 - Congrats to Li-Jen Lin for a paper accepted at the 8th IEEE International Conference on Artificial Intelligence Testing! 🎉
 
-Jun 2025 - Congratulations to Tze-An Lin for receiving the NSTC Research Grant for University Students! 🎉
+Feb 2026 - Gratefully acknowledge the College of Commerce for their support through another 3 years of merit-based research stipend. 😊
+
+Jun 2025 - Congrats to Tze-An Lin for receiving the NSTC Research Grant for University Students! 🎉
 
 Apr 2025 - A paper coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering! 💪
 
-Jul 2024 - Congratulations to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering! 🎉
+Jul 2024 - Congrats to Ming-I Huang for winning the Best English Paper Award in the 20th Taiwan Conference on Software Engineering! 🎉
 
 Recent Publications 🚀
 -----
@@ -64,6 +66,11 @@ Teaching 👨🏻‍🏫
 - 2024 Spring: [Special Topics on AI Safety](https://newdoc.nccu.edu.tw/teaschm/1131/schmPrv.jsp-yy=113&smt=1&num=356014&gop=00&s=1.html)
 - 2023 Fall: [Process Mining](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=356359&gop=00&s=1.html)
 - 2023 Spring: [Fairness and Explainability in Machine Learning](https://sites.google.com/view/aisd2023)
+
+Hobby 😎
+----
+I am a <a href="https://en.wikipedia.org/wiki/Dance_Dance_Revolution">Dance Dance Revolution</a> enthusiast. The software I use is <a href="https://www.stepmania.com/">Stepmania</a>, and the dance pad I use is <a href="https://www.maty-taneczne.pl/shop/ltek-ex-pro-x-the-handbar/">Dance mat LTEK EX PRO X</a>. I mostly dance to [Anime and K-pop songs](https://fmlab.nccu.edu.tw/stepmania/#ranking) 🕺🕺
+- [My play dashboard](https://fmlab.nccu.edu.tw/stepmania/) 🔮 and useful links: [Zenius-I-vanisher](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles), [Stepmania Online](https://stepmaniaonline.net/), [Etterna Online](https://etternaonline.com)
 
 Research 🧐
 ---
@@ -100,12 +107,6 @@ Essential advice on research from leading figures in the field:
 * Advice on Various Topics: [LeT-All](https://let-all.com/) (Learning Theory Alliance)
 
 Wondering "Why theory/math?" Watch this compelling [talk by Fields Medalist Tim Gowers](https://www.youtube.com/watch?v=YoL3LfY3ogg).
-
-Hobby 😎
-----
-I am a <a href="https://en.wikipedia.org/wiki/Dance_Dance_Revolution">Dance Dance Revolution</a> enthusiast. The software I use is <a href="https://www.stepmania.com/">Stepmania</a>, and the dance pad I use is <a href="https://www.maty-taneczne.pl/shop/ltek-ex-pro-x-the-handbar/">Dance mat LTEK EX PRO X</a>. I mostly dance to Anime and K-pop songs 🕺🕺
-- [My play dashboard](https://fmlab.nccu.edu.tw/stepmania/) 🔮
-- Useful links: [Zenius-I-vanisher](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles), [Stepmania Online](https://stepmaniaonline.net/), [Etterna Online](https://etternaonline.com)
 
 Photo
 ----
