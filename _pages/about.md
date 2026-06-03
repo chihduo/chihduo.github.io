@@ -57,7 +57,7 @@ Services 🤵🏻
 - Journal reviewer: [JAR](https://link.springer.com/journal/10817), [SR](https://www.nature.com/srep/), [IP&M](https://www.sciencedirect.com/journal/information-processing-and-management), [JoS](https://link.springer.com/journal/11227)
 - Lecturer: [FLOLAC'23](https://flolac.iis.sinica.edu.tw/zh/2023/), [FLOLAC'25](https://flolac.iis.sinica.edu.tw/zh/2025/)
 
-Teaching 👨🏻‍🏫
+Selected Teaching 👨🏻‍🏫
 -----
 - 2026 Spring: [Advanced Software Development](https://newdoc.nccu.edu.tw/teaschm/1142/schmPrv.jsp-yy=114&smt=2&num=356813&gop=00&s=1.html)
 - 2025 Fall: [Software Analysis and Testing](https://newdoc.nccu.edu.tw/teaschm/1141/schmPrv.jsp-yy=114&smt=1&num=306717&gop=00&s=1.html)
