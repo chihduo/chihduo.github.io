@@ -25,7 +25,7 @@ Lab News ✨
 -----
 Jun 2026 - Congrats to Dong Chen and Chih-Cheng Yang for two papers accepted at the IEEE International Conference on Software Quality, Reliability, and Security! 🎉
 
-May 2026 - Congrats to Li-Jen Lin for a paper accepted at the IEEE International Conference on Artificial Intelligence Testing! 🎉
+May 2026 - Congrats to Li-Jen Lin for [a paper](https://arxiv.org/abs/2606.12490) accepted at the IEEE International Conference on Artificial Intelligence Testing! 🎉
 
 Feb 2026 - Gratefully acknowledge the College of Commerce for their support through another 3 years of merit-based research stipend. 😊
 
