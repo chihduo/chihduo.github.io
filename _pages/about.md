@@ -23,6 +23,8 @@ __To new graduate students:__ Welcome aboard! Our lab's research theme for 2025-
 
 Lab News ✨
 -----
+Jun 2026 - A paper coauthored with Yen-Pang Chen and Fang Yu has been accepted by Information Processing and Management! 💪
+
 Jun 2026 - Congrats to Dong Chen and Chih-Cheng Yang for two papers accepted at the IEEE International Conference on Software Quality, Reliability, and Security! 🎉
 
 May 2026 - Congrats to Li-Jen Lin for [a paper](https://arxiv.org/abs/2606.12490) accepted at the IEEE International Conference on Artificial Intelligence Testing! 🎉
