@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor with the Department of Management Information Systems at National Chengchi University (NCCU) in Taiwan. Before my journey at NCCU, I was a postdoctoral researcher at Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau, and a visiting scholar at Max Planck Institute for Software Systems and Uppsala University. I earned my DPhil/PhD from the University of Oxford and completed my MSc and BSc at National Taiwan University.
+I'm an Assistant Professor with the Department of Management Information Systems at National Chengchi University (NCCU) in Taiwan. Before my journey at NCCU, I was a postdoctoral researcher at Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau, and a visiting scholar at Uppsala University and Max Planck Institute for Software Systems. I earned my DPhil/PhD from the University of Oxford and completed my MSc and BSc at National Taiwan University.
 
 Research Interests 🤓
 -----
@@ -23,44 +23,46 @@ __To new graduate students:__ Welcome aboard! Our lab's research theme for 2025-
 
 Lab News ✨
 -----
-Jun 2026 - A paper coauthored with Yen-Pang Chen and Fang Yu has been accepted by Information Processing and Management! 💪
+Jun 2026 - [A paper](https://arxiv.org/abs/2606.18430) coauthored with Yen-Pang Chen and Fang Yu has been accepted by Information Processing and Management 💪
 
-Jun 2026 - Congrats to Dong Chen and Chih-Cheng Yang for two papers accepted at the IEEE International Conference on Software Quality, Reliability, and Security! 🎉
+Jun 2026 - Congrats to Dong Chen and Chih-Cheng Yang for two papers ([Chen's](https://arxiv.org/abs/2606.26545) and [Yang's](https://arxiv.org/abs/2509.23806)) accepted at the IEEE International Conference on Software Quality, Reliability, and Security🎉 The accepting rate is 25.9% this year.
 
-May 2026 - Congrats to Li-Jen Lin for [a paper](https://arxiv.org/abs/2606.12490) accepted at the IEEE International Conference on Artificial Intelligence Testing! 🎉
+May 2026 - Congrats to Li-Jen Lin for [a paper](https://arxiv.org/abs/2606.12490) accepted at the IEEE International Conference on Artificial Intelligence Testing🎉 The accepting rate is 17.3% this year.
 
 Feb 2026 - Gratefully acknowledge the College of Commerce for their support through another 3 years of merit-based research stipend. 😊
 
-Jun 2025 - Congrats to Tze-An Lin for receiving the NSTC Research Grant for University Students! 🎉
+Jun 2025 - Congrats to Tze-An Lin for receiving the NSTC Research Grant for University Students 🎉
 
-Apr 2025 - A paper coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering! 💪
+Apr 2025 - [A paper](https://arxiv.org/abs/2505.09963) coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering 💪
 
-Jul 2024 - Congrats to Ming-I Huang for winning the Best English Paper Award in the Taiwan Conference on Software Engineering! 🎉
+Jul 2024 - Congrats to Ming-I Huang for [her paper](https://arxiv.org/abs/2509.06864) winning the Best English Paper Award in the Taiwan Conference on Software Engineering 🎉
 
-Recent Publications 🚀
+Jan 2024 - [A paper](https://arxiv.org/abs/2401.02618) coauthored with Anthony Lin was published in the Proceedings of the ACM on Programming Languages (POPL) 💪
+
+Selected Publications 🚀
 -----
-- Chih-Duo Hong, Anthony Lin, Philipp Rümmer, and Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification," IEEE Transactions on Software Engineering (TSE), 2025. [(preprint)](https://arxiv.org/abs/2505.09963)
-- Ming-I Huang, Chih-Duo Hong, and Fang Yu, "Concolic Testing on Individual Fairness of Neural Network Models," Journal of Information Science and Engineering (JISE), 2025. [(preprint)](https://arxiv.org/abs/2509.06864)
-- Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (POPL), 2024. [(preprint)](https://arxiv.org/abs/2401.02618)
-
 For a complete list, please see my [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ).
+
+- Chih-Duo Hong, Yen-Pang Chen, and Fang Yu, "Signature filtering: a lightweight enhancement for statistical watermark detection in large language models," Information Processing and Management (IPM), 2026. [(preprint)](https://arxiv.org/abs/2606.18430) (SCIE, SSCI, IF: 8.0)
+- Chih-Duo Hong, Anthony Lin, Philipp Rümmer, and Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification," IEEE Transactions on Software Engineering (TSE), 2025. [(preprint)](https://arxiv.org/abs/2505.09963) (SCIE, IF: 6.0)
+- Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (POPL), 2024. [(preprint)](https://arxiv.org/abs/2401.02618) (ESCI, IF: 3.3)
 
 Manuscripts ✍️
 ----
 - Chih-Duo Hong, Hongjian Jiang, Anthony Lin, Oliver Markgraf, Julian Parsert, Tony Tan, "Extracting Robust Register Automata from Neural Networks over Data Sequences." Under review. ([preprint](https://arxiv.org/abs/2511.19100))
-- Chih-Duo Hong, Wang Yu, Yao-Chen Chang, Fang Yu, "Influence-Guided Concolic Testing of Transformer Robustness." Under review. ([preprint](https://arxiv.org/abs/2509.23806))
 
 Services 🤵🏻
 -----
 
 - Program committee: [ATVA'24](https://atva-conference.org/2024/organization/), [VMCAI'26](https://conf.researchr.org/home/VMCAI-2026), [LPAR'26](https://easychair.org/smart-program/LPAR-26/), [APLAS'26](https://conf.researchr.org/track/aplas-atva-2026/aplas-2026), [CAV'26](https://conferences.i-cav.org/2026/)
 - SRC/AE committee: [CAV'20](https://i-cav.org/2020/), [APLAS'23](https://conf.researchr.org/home/aplas-2023)
-- Conference reviewer: [ICALP'24](https://compose.ioc.ee/icalp2024/#icalp), [CAV'24](https://i-cav.org/2024/), [MFCS'25](https://mfcs2025.mimuw.edu.pl/), [AAAI'26](https://aaai.org/conference/aaai/aaai-26/), [OOPSLA'26](https://conf.researchr.org/track/splash-2026/oopsla-2026)
+- Conference reviewer: [ICALP'24](https://compose.ioc.ee/icalp2024/#icalp), [CAV'24](https://i-cav.org/2024/), [MFCS'25](https://mfcs2025.mimuw.edu.pl/), [AAAI'26](https://aaai.org/conference/aaai/aaai-26/), [OOPSLA'26](https://conf.researchr.org/track/splash-2026/oopsla-2026), [AAAI'27](https://aaai.org/conference/aaai/aaai-27/)
 - Journal reviewer: [JAR](https://link.springer.com/journal/10817), [SR](https://www.nature.com/srep/), [IP&M](https://www.sciencedirect.com/journal/information-processing-and-management), [JoS](https://link.springer.com/journal/11227)
 - Lecturer: [FLOLAC'23](https://flolac.iis.sinica.edu.tw/zh/2023/), [FLOLAC'25](https://flolac.iis.sinica.edu.tw/zh/2025/)
 
 Selected Teaching 👨🏻‍🏫
 -----
+- 2026 Fall: Introduction to Computer Science
 - 2026 Spring: [Advanced Software Development](https://newdoc.nccu.edu.tw/teaschm/1142/schmPrv.jsp-yy=114&smt=2&num=356813&gop=00&s=1.html)
 - 2025 Fall: [Software Analysis and Testing](https://newdoc.nccu.edu.tw/teaschm/1141/schmPrv.jsp-yy=114&smt=1&num=306717&gop=00&s=1.html)
 - 2025 Spring: [Software Analysis and Testing](https://newdoc.nccu.edu.tw/teaschm/1132/schmPrv.jsp-yy=113&smt=2&num=306717&gop=00&s=1.html)
@@ -72,7 +74,8 @@ Selected Teaching 👨🏻‍🏫
 Hobby 😎
 ----
 I am a <a href="https://en.wikipedia.org/wiki/Dance_Dance_Revolution">Dance Dance Revolution</a> enthusiast. The software I use is <a href="https://www.stepmania.com/">Stepmania</a>, and the dance pad I use is <a href="https://www.maty-taneczne.pl/shop/ltek-ex-pro-x-the-handbar/">Dance mat LTEK EX PRO X</a>. I mostly dance to [Anime and K-pop songs](https://fmlab.nccu.edu.tw/stepmania/#ranking) 🕺🕺
-- [My play dashboard](https://fmlab.nccu.edu.tw/stepmania/) 🔮 and useful links: [Zenius-I-vanisher](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles), [Stepmania Online](https://stepmaniaonline.net/), [Etterna Online](https://etternaonline.com)
+- [My play dashboard](https://fmlab.nccu.edu.tw/stepmania/) 🔮
+- Useful links: [Zenius](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles), [Stepmaniaonline](https://stepmaniaonline.net/), [Etterna](https://etternaonline.com), [PIU](https://pumpitupidstepmania.blogspot.com/), [ITGdb](https://itgdb.net/), [Reddit](https://www.reddit.com/r/Stepmania/)
 
 Research 🧐
 ---
