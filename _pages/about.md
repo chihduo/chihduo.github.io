@@ -43,7 +43,7 @@ Selected Publications 🚀
 -----
 For a complete list, please see my [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ).
 
-- Chih-Duo Hong, Yen-Pang Chen, and Fang Yu, "Signature filtering: a lightweight enhancement for statistical watermark detection in large language models," Information Processing and Management (IPM), 2026. [(preprint)](https://arxiv.org/abs/2606.18430) (SCIE, SSCI, IF: 8.0)
+- Chih-Duo Hong, Yen-Pang Chen, and Fang Yu, "Signature filtering: a lightweight enhancement for statistical watermark detection in large language models," Information Processing and Management (IPM), 2026. [(preprint)](https://arxiv.org/abs/2606.18430) (SCIE, SSCI, IF: 8.1)
 - Chih-Duo Hong, Anthony Lin, Philipp Rümmer, and Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification," IEEE Transactions on Software Engineering (TSE), 2025. [(preprint)](https://arxiv.org/abs/2505.09963) (SCIE, IF: 6.0)
 - Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (POPL), 2024. [(preprint)](https://arxiv.org/abs/2401.02618) (ESCI, IF: 3.3)
 
