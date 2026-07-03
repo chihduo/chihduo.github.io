@@ -23,6 +23,8 @@ __To new graduate students:__ Welcome aboard! Our lab's research theme for 2025-
 
 Lab News ✨
 -----
+Jul 2026 - Congrats to Yi-Hua Chen for winning the Best English Paper Award in the Taiwan Conference on Software Engineering 🎉
+
 Jun 2026 - [A paper](https://arxiv.org/abs/2606.18430) coauthored with Yen-Pang Chen and Fang Yu has been accepted by Information Processing and Management 💪
 
 Jun 2026 - Congrats to Dong Chen and Chih-Cheng Yang for two papers ([Chen's](https://arxiv.org/abs/2606.26545) and [Yang's](https://arxiv.org/abs/2509.23806)) accepted at the IEEE International Conference on Software Quality, Reliability, and Security🎉 The accepting rate is 25.9% this year.
