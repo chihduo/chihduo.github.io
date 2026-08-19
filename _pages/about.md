@@ -112,6 +112,8 @@ Essential advice on research from leading figures in the field:
 * How to Read Papers: [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/checklists/reading-tips.pdf)
 * How to Write Technical Content: [John N. Tsitsiklis](https://www.mit.edu/~jnt/Papers/R-20-write-v5.pdf)
 * Advice on Various Topics: [LeT-All](https://let-all.com/) (Learning Theory Alliance)
+* How to think like a mathematician [Terence Tao](https://www.youtube.com/watch?v=kRcro90Aj0w)
+* Mathematics in the Age of AI [Terence Tao](https://www.youtube.com/watch?v=M0--ZH1lOzg)
 
 Wondering "Why theory/math?" Watch this compelling [talk by Fields Medalist Tim Gowers](https://www.youtube.com/watch?v=YoL3LfY3ogg).
 
