@@ -17,9 +17,9 @@ My work involves employing mathematical and logical methods to gain insights int
 - Model checking and automated generation of proofs and programs
 - Automated reasoning about modal and temporal logic
 
-I would love to supervise students interested in studying these topics. If you have an exciting project in mind, don’t hesitate to email me so we can chat more about it!
+[A calendar for conference deadlines](https://chihduo.github.io/conference-calendar/) 👀
 
-__To new graduate students:__ Welcome aboard! Our lab's research theme for 2025-2027 is the synergy between AI (e.g., neural networks and large language models) and automated software engineering (e.g., program analysis, verification, and testing). Feel free to contact me if you're interested in exploring this fascinating research area in your master's program.
+__To prospective students:__ Our lab's research theme for 2025-2027 is the synergy among AI (e.g., NNs and LLMs), automated reasoning, and software engineering. Feel free to contact me if you're interested in exploring this fascinating research area!
 
 Lab News ✨
 -----
