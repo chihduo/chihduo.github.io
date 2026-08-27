@@ -17,9 +17,9 @@ My work involves employing mathematical and logical methods to gain insights int
 - Model checking and automated generation of proofs and programs
 - Automated reasoning about modal and temporal logic
 
-[A calendar for conference deadlines](https://chihduo.github.io/conference-calendar/) 👀
-
 __To prospective students:__ Our lab's research theme for 2025-2027 is the synergy among AI (e.g., NNs and LLMs), automated reasoning, and software engineering. Feel free to contact me if you're interested in exploring this fascinating research area!
+
+[A calendar for conference deadlines](https://chihduo.github.io/conference-calendar/) 👀
 
 Lab News ✨
 -----
