@@ -23,6 +23,8 @@ __To prospective students:__ Our lab's research theme for 2025-2027 is the syner
 
 Lab News ✨
 -----
+Oct 2026 - A paper coauthored with Hongjian Jiang, Anthony Lin, Oliver Markgraf, Julian Parsert, and Tony Tan has been accepted at the International Symposium on Dependable Software Engineering 🎉
+
 Jul 2026 - Congrats to Yi-Hua Chen for winning the Best English Paper Award at the Taiwan Conference on Software Engineering 🎉
 
 Jun 2026 - [A paper](https://arxiv.org/abs/2606.18430) coauthored with Yen-Pang Chen and Fang Yu has been accepted by Information Processing and Management 💪
@@ -49,10 +51,11 @@ For a complete list, please see my [Google Scholar](https://scholar.google.com.t
 - Chih-Duo Hong, Anthony Lin, Philipp Rümmer, and Rupak Majumdar, "Probabilistic Bisimulation for Parameterized Anonymity and Uniformity Verification," IEEE Transactions on Software Engineering (TSE), 2025. [(preprint)](https://arxiv.org/abs/2505.09963) (SCIE, IF: 6.0)
 - Chih-Duo Hong and Anthony Lin, "Regular Abstractions for Array Systems," Proceedings of the ACM on Programming Languages (POPL), 2024. [(preprint)](https://arxiv.org/abs/2401.02618) (ESCI, IF: 3.3)
 
+<!--
 Manuscripts ✍️
 ----
 - Chih-Duo Hong, Hongjian Jiang, Anthony Lin, Oliver Markgraf, Julian Parsert, Tony Tan, "Extracting Robust Register Automata from Neural Networks over Data Sequences." Under review. ([preprint](https://arxiv.org/abs/2511.19100))
-
+-->
 Services 🤵🏻
 -----
 
