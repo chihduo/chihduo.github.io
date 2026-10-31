@@ -43,6 +43,14 @@ Jul 2024 - Congrats to Ming-I Huang for [her paper](https://arxiv.org/abs/2509.0
 
 Jan 2024 - [A paper](https://arxiv.org/abs/2401.02618) coauthored with Anthony Lin was published in the Proceedings of the ACM on Programming Languages (POPL) 💪
 
+Supervised Students
+----
+
+__Current__: Bing-Yi Fan, Dong Chen, Chih-Cheng Yang
+
+__Graduated__: Li-Jen Lin (TSMC), Ming-I Huang (TSMC), Yen-Pang Chen (MTK), Yi-Hua Chen, Ying-Ling Chiang
+
+
 Selected Publications
 -----
 For a complete list, please see my [Google Scholar](https://scholar.google.com.tw/citations?user=Mnc26mEAAAAJ).
