@@ -48,7 +48,7 @@ Supervised Students
 
 __Current__: Bing-Yi Fan, Dong Chen, Chih-Cheng Yang
 
-__Graduated__: Li-Jen Lin (TSMC), Ming-I Huang (TSMC), Yen-Pang Chen (MTK), Yi-Hua Chen, Ying-Ling Chiang
+__Graduated__: Li-Jen Lin (TSMC), Ming-I Huang (TSMC), Yen-Pang Chen (MTK), Yi-Hua Chen, Ying-Ling Chiang, Tze-An Lin
 
 
 Selected Publications
