@@ -23,7 +23,7 @@ __To prospective students:__ Our lab's research theme for 2025-2027 is the syner
 
 Lab News ✨
 -----
-Oct 2026 - A paper coauthored with Hongjian Jiang, Anthony Lin, Oliver Markgraf, Julian Parsert, and Tony Tan has been accepted at the International Symposium on Dependable Software Engineering 🎉
+Oct 2026 - [A paper](https://arxiv.org/abs/2511.19100) coauthored with Hongjian Jiang, Anthony Lin, Oliver Markgraf, Julian Parsert, and Tony Tan has been accepted at the International Symposium on Dependable Software Engineering 🎉
 
 Jul 2026 - Congrats to Yi-Hua Chen for winning the Best English Paper Award at the Taiwan Conference on Software Engineering 🎉
 
