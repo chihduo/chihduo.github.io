@@ -11,7 +11,7 @@ I'm an Assistant Professor with the Department of Management Information Systems
 
 Research Interests 🤓
 -----
-My work involves employing mathematical and logical methods to gain insights into how systems and software behave. Below are some areas I focus on:
+My work involves employing statistical and logical methods to gain insights into how systems and software behave. Below are some areas I focus on:
 
 - Verification and testing of software and AI systems
 - Model checking and automated generation of proofs and programs
@@ -88,8 +88,9 @@ Selected Teaching 👨🏻‍🏫
 Hobby 😎
 ----
 I am a <a href="https://en.wikipedia.org/wiki/Dance_Dance_Revolution">Dance Dance Revolution</a> enthusiast. The software I use is <a href="https://www.stepmania.com/">Stepmania</a>, and the dance pad I use is <a href="https://www.maty-taneczne.pl/shop/ltek-ex-pro-x-the-handbar/">Dance mat LTEK EX PRO X</a>. I mostly dance to [Anime and K-pop songs](https://chihduo.github.io/stepmania-dashboard/#ranking) 🕺🕺
-- [Play dashboard](https://chihduo.github.io/stepmania-dashboard/) 🔮
-- [Dance practicing tool](https://chihduo.github.io/footnotes/)
+- [My play dashboard](https://chihduo.github.io/stepmania-dashboard/) ([source](https://github.com/chihduo/stepmania-dashboard))
+- [Dance practicing tool](https://chihduo.github.io/footnotes/) ([source](https://github.com/chihduo/footnotes))
+- [My fork of Stepmania](https://github.com/chihduo/stepmania)
 - Useful links: [Zenius](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles), [Stepmaniaonline](https://stepmaniaonline.net/), [Etterna](https://etternaonline.com), [PIU](https://pumpitupidstepmania.blogspot.com/), [ITGdb](https://itgdb.net/), [Reddit](https://www.reddit.com/r/Stepmania/)
 
 Research 🧐
