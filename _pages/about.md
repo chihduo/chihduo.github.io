@@ -23,25 +23,25 @@ __To prospective students:__ Our lab's research theme for 2025-2027 is the syner
 
 Lab News ✨
 -----
-Oct 2026 - [A paper](https://arxiv.org/abs/2511.19100) coauthored with Hongjian Jiang, Anthony Lin, Oliver Markgraf, Julian Parsert, and Tony Tan has been accepted at the International Symposium on Dependable Software Engineering 🎉
+Oct 2026 - [A paper](https://arxiv.org/abs/2511.19100) coauthored with Hongjian Jiang, Anthony Lin, Oliver Markgraf, Julian Parsert, and Tony Tan has been accepted at the International Symposium on Dependable Software Engineering.
 
-Jul 2026 - Congrats to Yi-Hua Chen for winning the Best English Paper Award at the Taiwan Conference on Software Engineering 🎉
+Jul 2026 - Congrats to Yi-Hua Chen for winning the Best English Paper Award at the Taiwan Conference on Software Engineering.
 
-Jun 2026 - [A paper](https://arxiv.org/abs/2606.18430) coauthored with Yen-Pang Chen and Fang Yu has been accepted by Information Processing and Management 💪
+Jun 2026 - [A paper](https://arxiv.org/abs/2606.18430) coauthored with Yen-Pang Chen and Fang Yu has been accepted by Information Processing and Management.
 
-Jun 2026 - Congrats to Dong Chen and Chih-Cheng Yang for two papers ([Chen's](https://arxiv.org/abs/2606.26545) and [Yang's](https://arxiv.org/abs/2509.23806)) accepted at the IEEE International Conference on Software Quality, Reliability, and Security🎉 The acceptance rate is 25.9% this year.
+Jun 2026 - Congrats to Dong Chen and Chih-Cheng Yang for two papers ([Chen's](https://arxiv.org/abs/2606.26545) and [Yang's](https://arxiv.org/abs/2509.23806)) accepted at the IEEE International Conference on Software Quality, Reliability, and Security. The acceptance rate is 25.9% this year.
 
-May 2026 - Congrats to Li-Jen Lin for [a paper](https://arxiv.org/abs/2606.12490) accepted at the IEEE International Conference on Artificial Intelligence Testing🎉 The acceptance rate is 17.3% this year.
+May 2026 - Congrats to Li-Jen Lin for [a paper](https://arxiv.org/abs/2606.12490) accepted at the IEEE International Conference on Artificial Intelligence Testing. The acceptance rate is 17.3% this year.
 
-Feb 2026 - Gratefully acknowledge the College of Commerce for their support through another 3 years of merit-based research stipend. 😊
+Feb 2026 - Gratefully acknowledge the College of Commerce for their support through another 3 years of merit-based research stipends.
 
-Jun 2025 - Congrats to Tze-An Lin for receiving the NSTC Research Grant for University Students 🎉
+Jun 2025 - Congrats to Tze-An Lin for receiving the NSTC Research Grant for University Students.
 
-Apr 2025 - [A paper](https://arxiv.org/abs/2505.09963) coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering 💪
+Apr 2025 - [A paper](https://arxiv.org/abs/2505.09963) coauthored with Anthony Lin, Philipp Rümmer, and Rupak Majumdar has been accepted by IEEE Transactions on Software Engineering.
 
-Jul 2024 - Congrats to Ming-I Huang for [her paper](https://arxiv.org/abs/2509.06864) winning the Best English Paper Award at the Taiwan Conference on Software Engineering 🎉
+Jul 2024 - Congrats to Ming-I Huang for [her paper](https://arxiv.org/abs/2509.06864) winning the Best English Paper Award at the Taiwan Conference on Software Engineering.
 
-Jan 2024 - [A paper](https://arxiv.org/abs/2401.02618) coauthored with Anthony Lin was published in the Proceedings of the ACM on Programming Languages (POPL) 💪
+Jan 2024 - [A paper](https://arxiv.org/abs/2401.02618) coauthored with Anthony Lin was published in the Proceedings of the ACM on Programming Languages (POPL).
 
 Supervised Students
 ----
